@@ -1,1 +1,2 @@
-https://github.com/RpnDbg/Android251/blob/a282f48a17557b7a25ec2a91d7383f99bed69811/assignments/assignment%201/app/src/main/java/com/example/tip/MainActivity.kt
+
+https://github.com/RpnDbg/Android251/tree/f42a8769b45887236b522947b106aa56a5c505e3/assignments/a3
