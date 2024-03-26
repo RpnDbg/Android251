@@ -1,1 +1,1 @@
-https://github.com/RpnDbg/Android251/tree/5cbc39b2b68259fbb78c3f377fa2d6ff738b15cb/assignments/LifeCycleAwareAssignment/LifeCycleAwareAssignment
+https://github.com/RpnDbg/Android251/tree/3f4cec25d87af89347909912d46ef289a3ab7cd2/assignments/NavigationProject
