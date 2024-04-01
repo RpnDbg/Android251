@@ -1,1 +1,1 @@
-https://github.com/RpnDbg/Android251/tree/3f4cec25d87af89347909912d46ef289a3ab7cd2/assignments/NavigationProject
+https://github.com/RpnDbg/Android251/tree/fe3cd0388681d33bc34f6f1a3fca76654c98da4e/assignments/RP/RecycleProject
