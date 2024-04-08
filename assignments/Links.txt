@@ -1,1 +1,1 @@
-https://github.com/RpnDbg/Android251/tree/fe3cd0388681d33bc34f6f1a3fca76654c98da4e/assignments/RP/RecycleProject
+https://github.com/RpnDbg/Android251/tree/a76c2e3294c1b1aacfbbd75bbbb99f76f79a1b4b/assignments/RecycleViewIntentProj
