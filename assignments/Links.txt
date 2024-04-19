@@ -1,1 +1,1 @@
-https://github.com/RpnDbg/Android251/tree/a76c2e3294c1b1aacfbbd75bbbb99f76f79a1b4b/assignments/RecycleViewIntentProj
+https://github.com/RpnDbg/Android251/tree/d0884da29fc1f50a705b1bc550e51047c744c811/assignments/CoroutinesProject
